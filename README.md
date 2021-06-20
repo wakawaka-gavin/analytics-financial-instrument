@@ -12,6 +12,5 @@ Project Members:
 Project Supervisor: Dr. Yuanto KUSNAD
 
 Deliverables:
-
-Project Codes
-Project Report
+  Project Codes
+  Project Report
