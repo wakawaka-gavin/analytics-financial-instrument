@@ -10,3 +10,8 @@ Project Members:
   Wu Jiayang
 
 Project Supervisor: Dr. Yuanto KUSNAD
+
+Deliverables:
+
+Project Codes
+Project Report
